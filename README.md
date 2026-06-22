@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/prajjwalmaur/LeetCode/tree/master/0015-3sum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/prajjwalmaur/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Binary Search
 |  |
@@ -22,9 +23,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/prajjwalmaur/LeetCode/tree/master/0015-3sum) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/prajjwalmaur/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/prajjwalmaur/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/prajjwalmaur/LeetCode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
