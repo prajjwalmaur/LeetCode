@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/prajjwalmaur/LeetCode/tree/master/0015-3sum) |
+| [0048-rotate-image](https://github.com/prajjwalmaur/LeetCode/tree/master/0048-rotate-image) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/prajjwalmaur/LeetCode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Binary Search
 |  |
@@ -33,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/prajjwalmaur/LeetCode/tree/master/0015-3sum) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/prajjwalmaur/LeetCode/tree/master/0048-rotate-image) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/prajjwalmaur/LeetCode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
