@@ -48,4 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/prajjwalmaur/LeetCode/tree/master/1903-largest-odd-number-in-string) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/prajjwalmaur/LeetCode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/prajjwalmaur/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
